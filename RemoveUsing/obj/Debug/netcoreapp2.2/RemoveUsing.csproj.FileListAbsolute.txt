@@ -1,0 +1,13 @@
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\obj\Debug\netcoreapp2.2\RemoveUsing.csprojAssemblyReference.cache
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\obj\Debug\netcoreapp2.2\RemoveUsing.dll.config
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\obj\Debug\netcoreapp2.2\RemoveUsing.csproj.CoreCompileInputs.cache
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\obj\Debug\netcoreapp2.2\RemoveUsing.AssemblyInfoInputs.cache
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\obj\Debug\netcoreapp2.2\RemoveUsing.AssemblyInfo.cs
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\bin\Debug\netcoreapp2.2\RemoveUsing.dll.config
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\bin\Debug\netcoreapp2.2\RemoveUsing.deps.json
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\bin\Debug\netcoreapp2.2\RemoveUsing.runtimeconfig.json
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\bin\Debug\netcoreapp2.2\RemoveUsing.runtimeconfig.dev.json
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\bin\Debug\netcoreapp2.2\RemoveUsing.dll
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\bin\Debug\netcoreapp2.2\RemoveUsing.pdb
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\obj\Debug\netcoreapp2.2\RemoveUsing.dll
+C:\Users\ksandarusi\source\repos\RemoveUsingForType\RemoveUsing\obj\Debug\netcoreapp2.2\RemoveUsing.pdb
